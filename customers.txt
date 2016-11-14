@@ -1,0 +1,31 @@
+1325|Ned|Flanders|225-885-4578|neighborino@msn.com|477 12th Street|Springfield|ST|55345
+1326|Kelly|Fisher|652-445-8896|fisher@aol.net|2717 47st|Brennon|NY|85123
+1327|Kim|Hagelman|606-458-8875|kshagelman@cox.net|1245 Overlook Point|Solon|OH|44139
+1328|Jared|Fogle|479-856-8899|jared@subway.com|12 Paseo Rodeo|Oceanside|CA|88569
+1329|Angela|Martin|677-433-2341|amartin@dundermifflin.com|448 N. Commerce St|Scranton|PA|11234
+1330|Jane|Doe|760-522-8198|thedoe@hotmail.com|3594 WoodCrest Dr|Tucson|AZ|85746
+1331|Mark|Cash|235-555-1239|clover@aol.com|345 Oak Street|Pea Ridge|AR|72251
+1332|Charles|Norris|214-345-1221|beardedone@tx.rr.com|95 Roundhouse Row|Dallas|TX|75007
+1333|Meagan|Chevsky|479-375-8395|meagan@tic.com|3567 Populus Place|Caldwell|AR|23875
+1334|Stan|Marsh|872-144-7483|stanMarsh@southparkk12.edu|334 St. Johns Blvd.|Southpark|CO|63341
+1335|Michael|Cowan|817-834-2348|ilovecats@hotmail.com|583 Laurel Ave.|Kingsville|AL|83745
+1336|Dwight|Schrute|677-433-2341|dschrute@dundermifflin.com|448 N. Commerce St|Scranton|PA|11234
+1337|Ron|Burgundy|334-289-8873|stayclasy@wklf.com|443 Central Road|San Diego|CA|93342
+1338|Bruno|Miller|972-836-8357|bmiller@fossil.com|635 Lawncut Lane|Grand Prairie|TX|91464
+1339|Peter|Griffin|910-788-1255|bigguy@aol.com|1143 Main Road|Quohog|RI|01123
+1340|Norma|Corder|972-857-2735|ncorder@dwb.com|74 Pine Street|Mesquite|TX|23874
+1341|Liz|Lemom|212-455-8394|liz.lemon@nbc.com|30 Rockefeller Plaza|New York|NY|01332
+1342|Jon|DeLoach|214-253-3122|jdeloach@perotsystems.com|123 Park St.|Garland|TX|04086
+1343|Lucius|Fox|335-445-2286|ceo@wayneindustries.com|1 Central Blvd.|Gotham|NY|03341
+1344|Guru|Pitka|223-478-1443|IntoMeISee@PitkaAshram.org|8834 Ventura Highway|Los Angeles|CA|91224
+2568|Tariq|Jawed|718-790-3439|jawed.tariq@gmail.com|5900 Stoney Brook RD Apt 2202|Rogers|AR|72758
+1545|Haya|Tariq|718-790-3888|haya.tariq@gmail.com|5900 Stoney Brook RD Apt 2202|Rogers|AR|72712
+2352|Ryan|Aston|479-277-6130|nraston@wal-mart.com|2nd Floor DGTC|Bentonville|AR|72712
+6323|Donald|Duck|555-555-5555|dontheduck@disney.com|456 Some Drive|Orlando|FL|78285
+4325|Mickey|Mouse|555-555-5555|mickthemouse@disney.com|458 Some Drive|Orlando|FL|78285
+4327|Mr.|Pennybags|123-456-7890|dollarsign@hasbro.com|1 park place|Monopoly|NJ|12345
+4328|Big|Bird|123-456-7890|theBird@audobon.net|12345 sesame st.|New York|NY|12345
+7348|Michael|Scott|555-555-5555|mscott@dundermifflin.com|448 N. Commerce St|Scranton|PA|11234
+7349|John|Davis|479-277-3235|jdavi34@wal-mart.com|805 Moberly Lane|Bentonville|AR|72712
+7350|Angela|Davis|479-696-9244|missangiedawn@yahoo.com|1016 East Dyke Road|Rogers|AR|72758
+7351|Bob|Builder|123-456-7890|bobdbuild@pbs.org|123 Kiddie Lane|PBSKidsAR|AR|72727
