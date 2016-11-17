@@ -1,7 +1,7 @@
 1325|Ned|Flanders|225-885-4578|neighborino@msn.com|477 12th Street|Springfield|ST|55345
-1326|Kelly|Fisher|652-445-8896|fisher@aol.net|2717 47st|Brennon|NY|85123
+1326|Jenna|Fisher|652-445-8896|fisher@aol.net|2717 47st|Brennon|NY|85123
 1327|Kim|Hagelman|606-458-8875|kshagelman@cox.net|1245 Overlook Point|Solon|OH|44139
-1328|Jared|Fogle|479-856-8899|jared@subway.com|12 Paseo Rodeo|Oceanside|CA|88569
+1328|Frank|Underwood|212-055-2335|prez@whitehouse.gov|200 Pennsylvania Ave|Washington|DC|02443
 1329|Angela|Martin|677-433-2341|amartin@dundermifflin.com|448 N. Commerce St|Scranton|PA|11234
 1330|Jane|Doe|760-522-8198|thedoe@hotmail.com|3594 WoodCrest Dr|Tucson|AZ|85746
 1331|Mark|Cash|235-555-1239|clover@aol.com|345 Oak Street|Pea Ridge|AR|72251
@@ -27,5 +27,5 @@
 4328|Big|Bird|123-456-7890|theBird@audobon.net|12345 sesame st.|New York|NY|12345
 7348|Michael|Scott|555-555-5555|mscott@dundermifflin.com|448 N. Commerce St|Scranton|PA|11234
 7349|John|Davis|479-277-3235|jdavi34@wal-mart.com|805 Moberly Lane|Bentonville|AR|72712
-7350|Angela|Davis|479-696-9244|missangiedawn@yahoo.com|1016 East Dyke Road|Rogers|AR|72758
+7350|Angela|Davis|479-696-9244|missangiedawn@yahoo.com|1016 East Dyson Road|Hollywood|FL|72758
 7351|Bob|Builder|123-456-7890|bobdbuild@pbs.org|123 Kiddie Lane|PBSKidsAR|AR|72727
